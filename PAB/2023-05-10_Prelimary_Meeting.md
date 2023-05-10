@@ -66,14 +66,17 @@ where these tools actually become part of the bluesky core.
 * Perform a review of Tiled and Queueserver - The PAB will write a formal charge. 
 
 * Charge the TSC to come up with an approach on how bluesky will architect and develop GUIs.  This should include
-*   a review of current capabilities and options
-*   a recommendation and plan for the architecture and development approach for 
-*    experiment control and setup
-*    Monitoring / Feedback and Easy Visualization
-*   an estimate of the required effort
-*   recommendations for the architectures for local and web based solutions
-*   Essentially what is the 'bluesky' way for making GUIs for each different 'class' 
-*   The TSC and PAB should regularly checkin on the progress (every 2 months)
+  *   a review of current capabilities and options
+  *   a recommendation and plan for the architecture and development approach for 
+    1.    experiment control and setup
+    2.    Monitoring / Feedback and Easy Visualization
+  *   an estimate of the required effort
+  *   recommendations for the architectures for local and web based solutions
+  *   Essentially what is the 'bluesky' way for making GUIs for each different 'class' 
+    * What form would the output take ? Projects in bluesky 'core' or outside bluesky.  Or even just entries in the knowledgebase etc...
+  *   The TSC and PAB should regularly checkin on the progress (every 2 months)
+    *  Checkin 1: What is the current landscape ? and what is the 'appetite' for a common development.  
+
 
 Action the PAB chair to extend an invition to a member from HZB (BESSY-II) and a 2nd member from SLAC to sit on the PAB. 
 
