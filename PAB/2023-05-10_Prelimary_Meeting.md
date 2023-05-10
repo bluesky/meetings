@@ -1,10 +1,10 @@
-# Project Management Board Meeting Minutes
+# Project Advisory Board Meeting Minutes
 
 Date: 10th May 2023
 
 Present: Nicholas Schwarz, Alec Sandy, Alex Hexemer, Stuart Campbell, Stuart Wilkins
 
-Discussion on the candence of the PMB meetings.  The consensus was that we should meet twice a year.
+Discussion on the candence of the PAB meetings.  The consensus was that we should meet twice a year.
 The rough agenda for these meetings should be:
   * Updates and Report from TSC on progress and future plans
   * Facility Updates
@@ -13,14 +13,14 @@ The rough agenda for these meetings should be:
 There should be regular (ideally in person) workshop for the Bluesky Project as a whole.  These could follow the rough format and schedule of the EPICS Collaboration
 Meetings. 
 
-There should be a process for projects to become officially adopted into the Bluesky Project, and the PMB should be the body that ratifies this. 
+There should be a process for projects to become officially adopted into the Bluesky Project, and the PAB should be the body that ratifies this. 
 - Ask the TSC to propose a set of criteria and process for a project to be adopted. 
 
-The PMB members should raise the issue of what resources are (and going to be) committed to the project.  This can take the form of local developers
+The PAB members should raise the issue of what resources are (and going to be) committed to the project.  This can take the form of local developers
 at the facilities or contract effort.  
 
-The PMB will, as needed, charge the TSC to perform a review for existing projects to ensure that their direction is meeting the needs of the facilties and users. 
-In areas of emerging technologies or areas that are of importance to the facilities, the PMB will charge the TSC to produce recommendations and plans to 
+The PAB will, as needed, charge the TSC to perform a review for existing projects to ensure that their direction is meeting the needs of the facilties and users. 
+In areas of emerging technologies or areas that are of importance to the facilities, the PAB will charge the TSC to produce recommendations and plans to 
 meet these needs.  
 
 Some examples of areas discussed for reviews or "focus areas" where 
@@ -61,9 +61,9 @@ There was discussion on the subject of reciprocal space mapping and tools.  This
 Are there some areas of utilities and tools that might be useful (e.g. unit conversion) - what is the threshold 
 where these tools actually become part of the bluesky core.
 
-## Tasks for the Next PMB Meeting
+## Tasks for the Next PAB Meeting
 
-* Perform a review of Tiled and Queueserver - The PMB will write a formal charge. 
+* Perform a review of Tiled and Queueserver - The PAB will write a formal charge. 
 
 * Charge the TSC to come up with an approach on how bluesky will architect and develop GUIs.  This should include
 *   a review of current capabilities and options
@@ -73,9 +73,9 @@ where these tools actually become part of the bluesky core.
 *   an estimate of the required effort
 *   recommendations for the architectures for local and web based solutions
 *   Essentially what is the 'bluesky' way for making GUIs for each different 'class' 
-*   The TSC and PMB should regularly checkin on the progress (every 2 months)
+*   The TSC and PAB should regularly checkin on the progress (every 2 months)
 
-Action the PMB chair to extend an invition to a member from HZB (BESSY-II) and a 2nd member from SLAC to sit on the PMB. 
+Action the PAB chair to extend an invition to a member from HZB (BESSY-II) and a 2nd member from SLAC to sit on the PAB. 
 
 
 
