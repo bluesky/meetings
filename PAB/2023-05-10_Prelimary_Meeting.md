@@ -74,6 +74,12 @@ where these tools actually become part of the bluesky core.
     - recommendations for the architectures for local and web based solutions
   
   Essentially what is the 'bluesky' way for making GUIs for each different 'class' 
+  - Web based
+  - Thick Client (e.g. Qt)
+  - CLI
+  - Jupyter
+  - others
+  
   What form would the output take ? 
   - Projects in bluesky 'core' 
   - Projects outside bluesky. 
