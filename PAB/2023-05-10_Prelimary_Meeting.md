@@ -63,9 +63,11 @@ where these tools actually become part of the bluesky core.
 
 ## Tasks for the Next PAB Meeting
 
-* Perform a review of Tiled and Queueserver - The PAB will write a formal charge. 
+- Action the PAB chair to extend an invition to a member from HZB (BESSY-II) and a 2nd member from SLAC to sit on the PAB. 
 
-* Charge the TSC to come up with an approach on how bluesky will architect and develop GUIs.  This should include
+- Perform a review of Tiled and Queueserver - The PAB will write a formal charge. 
+
+- Charge the TSC to come up with an approach on how bluesky will architect and develop GUIs.  This should include
   - a review of current capabilities and options
   - a recommendation and plan for the architecture and development approach for 
     - experiment control and setup
@@ -89,7 +91,6 @@ where these tools actually become part of the bluesky core.
       - What is the current landscape? and what is the 'appetite' for a common development.  
 
 
-Action the PAB chair to extend an invition to a member from HZB (BESSY-II) and a 2nd member from SLAC to sit on the PAB. 
 
 
 
